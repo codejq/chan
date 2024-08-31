@@ -16,5 +16,5 @@ script.js: Contains the JavaScript code that makes the dragon follow the cursor.
 Contributing
 Contributions are welcome! Please fork the repository, make your changes, and create a pull request.
 
-## Lice``nse
+## License
 This project is licensed under the MIT License.
