@@ -5,7 +5,7 @@ Dragon Game is a simple browser-based game where a dragon follows the mouse curs
 ## Installation
 To clone this repository, run:
 
-##Try
+## Tray
 https://codejq.github.io/chan/
 
 git clone https://github.com/codejq/chan.git
